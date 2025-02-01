@@ -8,7 +8,7 @@ A simple and elegant Flutter application that displays a digital business card w
 - Supports dark mode.
 
 ## 📱 Screenshots
-![Business Card UI]("C:\Users\Hoor\OneDrive\Pictures\Screenshots\Screenshot 2025-02-01 214459.png")
+C:\Users\Hoor\OneDrive\Pictures\Screenshots\Screenshot 2025-02-01 214459.png
 
 
 ## 🚀 Getting Started
